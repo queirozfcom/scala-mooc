@@ -12,4 +12,4 @@ object Troubleshooting extends GameDef with InfiniteTerrain{
   override val startPos: Troubleshooting.Pos = Pos(2,2)
 }
 
-Troubleshooting.main
+Troubleshooting.main()
